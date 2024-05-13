@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wd100-react-application3/static/css/main.a363a00a.css",
+    "main.js": "/wd100-react-application3/static/js/main.b0eb487a.js",
+    "static/js/453.d1c37eb5.chunk.js": "/wd100-react-application3/static/js/453.d1c37eb5.chunk.js",
+    "static/media/banner.jpg": "/wd100-react-application3/static/media/banner.bf0a07ff052bafde9a30.jpg",
+    "static/media/pasta1.png": "/wd100-react-application3/static/media/pasta1.50a9e4a62ab137d439ea.png",
+    "static/media/pizza2.png": "/wd100-react-application3/static/media/pizza2.c6242f1ae26856717f33.png",
+    "static/media/burger3.png": "/wd100-react-application3/static/media/burger3.438364a263b4078ab704.png",
+    "static/media/burger1.png": "/wd100-react-application3/static/media/burger1.4b6216dfc6d4b22d0fe9.png",
+    "static/media/burger2.png": "/wd100-react-application3/static/media/burger2.bda1066ac8aa722baf21.png",
+    "static/media/pizza1.png": "/wd100-react-application3/static/media/pizza1.bf50da8a16f299f9bc7f.png",
+    "static/media/fries1.png": "/wd100-react-application3/static/media/fries1.b60353cfb9d204648858.png",
+    "static/media/pizza3.png": "/wd100-react-application3/static/media/pizza3.d3563ef506f93693233c.png",
+    "static/media/pasta2.png": "/wd100-react-application3/static/media/pasta2.188ba9280966f7e8e024.png",
+    "index.html": "/wd100-react-application3/index.html",
+    "main.a363a00a.css.map": "/wd100-react-application3/static/css/main.a363a00a.css.map",
+    "main.b0eb487a.js.map": "/wd100-react-application3/static/js/main.b0eb487a.js.map",
+    "453.d1c37eb5.chunk.js.map": "/wd100-react-application3/static/js/453.d1c37eb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a363a00a.css",
+    "static/js/main.b0eb487a.js"
+  ]
+}
